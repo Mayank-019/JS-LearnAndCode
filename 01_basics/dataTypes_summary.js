@@ -21,6 +21,7 @@ const anotherId = Symbol('123')
 console.log(id == anotherId);
 
 const bignumber = 232432454541667443n
+// console.log(typeof(bignumber));
 
 
 // Non-Primitive Data Types (call by reference)
